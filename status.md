@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Joseph Pimble
 
 #### Your section leader's name
 
-TODO
+Joseph Pimble
 
 #### Project title
 
-TODO
+Blackjack
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+I have created the starting screen along with a workable button and set up the hit and stand buttons. Also have a record display
 
 #### What have you not done for your project yet?
 
-TODO
+IMplement the cards for dealer and player
 
 #### What problems, if any, have you encountered?
 
-TODO
+Not many, just learning curves for how to use pygame and what you can do with it
